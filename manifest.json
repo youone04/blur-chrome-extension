@@ -1,0 +1,16 @@
+{
+    "name" : "Blur WhatsApp",
+    "version" : "1.0.0",
+    "description": "hmm",
+    "manifest_version":3,
+    "author" : "you one",
+    "permissions" : ["storage" , "scripting", "activeTab"],
+    "host_permissions" : ["*://web.whatsapp.com/*"],
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Blur WhatsApp"
+    },
+    "icons": {
+        "128" : "icon.png"
+    }
+}

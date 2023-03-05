@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: transparent;
+    font-family: 'Courier New', Courier, monospace;
+    min-width: 300px;
+}
+/* .container{
+
+} */
+.custom_blur{
+    filter: blur(4px);
+}
